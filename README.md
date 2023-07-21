@@ -10,7 +10,70 @@ This project was implemented taking reference from the following paper:
 [High Quality Monocular Depth Estimation via Transfer Learning (arXiv 2018)](https://arxiv.org/abs/1812.11941)
 **[Ibraheem Alhashim]** and **Peter Wonka** 
 
-![Project](C:/255CUsers/255Cvikas/255CDocuments/255CDepth_estimation-master/255Ctest_img_1/255Cimage0.png)
+# Results 
+### Origianl image 
+![Project](results/0_image.jpg) 
+
+### Origianl Dense Depth using get using the trained model.
+![Project](original_depth/depth0.png) 
+
+### Dense Depth using get using the trained model.
+![Project](results/0_depth.jpg)  
+
+# Data 
+Downlaod the data from the link [click here](www.google.com) and put in the parent directory of the project. 
+
+# Train the model. 
+
+Run the command `python train.py` to train the model and save the model in `./models` directory. 
+
+# Test the model.
+Run the command `python test.py` the model the testing images is in the `./test_img_1` directory and produced DenseDepth saved in the './resutls' directory. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
