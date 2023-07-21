@@ -12,7 +12,7 @@ This project was implemented taking reference from the following paper:
 
 # Results 
 
-| Original image                    | Original DenseDepth                | Predicted Desnse Depth                   |
+| Original image                    | Original DenseDepth                | Predicted DenseDepth                   |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
 | ![Project](results/0_image.jpg) | ![Project](original_depth/depth0.png) | ![Project](results/0_depth.jpg)  |
 | ![Project](results/1_image.jpg) | ![Project](original_depth/depth1.png) | ![Project](results/1_depth.jpg)  |
