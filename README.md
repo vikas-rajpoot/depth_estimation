@@ -15,6 +15,9 @@ This project was implemented taking reference from the following paper:
 | Original image                    | Original DenseDepth                | Predicted Desnse Depth                   |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
 | ![Project](results/0_image.jpg) | ![Project](original_depth/depth0.png) | ![Project](results/0_depth.jpg)  |
+| ![Project](results/1_image.jpg) | ![Project](original_depth/depth1.png) | ![Project](results/1_depth.jpg)  |
+| ![Project](results/2_image.jpg) | ![Project](original_depth/depth2.png) | ![Project](results/2_depth.jpg)  |
+| ![Project](results/3_image.jpg) | ![Project](original_depth/depth3.png) | ![Project](results/3_depth.jpg)  |
 
 
 ##### Structural Similarity Index (SSIM) between the above two images: 0.37290473188266604
