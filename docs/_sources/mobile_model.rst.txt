@@ -1,0 +1,7 @@
+mobile\_model module
+====================
+
+.. automodule:: mobile_model
+   :members:
+   :undoc-members:
+   :show-inheritance:
