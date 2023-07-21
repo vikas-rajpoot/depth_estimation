@@ -11,14 +11,11 @@ This project was implemented taking reference from the following paper:
 **[Ibraheem Alhashim]** and **Peter Wonka** 
 
 # Results 
-### Origianl image 
-![Project](results/0_image.jpg) 
 
-### Origianl Dense Depth using get using the trained model.
-![Project](original_depth/depth0.png) 
+| Original image                    | Original DenseDepth                | Predicted Desnse Depth                   |
+| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
+| ![Project](results/0_image.jpg) | ![Project](original_depth/depth0.png) | ![Project](results/0_depth.jpg)  |
 
-### Dense Depth using get using the trained model.
-![Project](results/0_depth.jpg)  
 
 ##### Structural Similarity Index (SSIM) between the above two images: 0.37290473188266604
 # Data 
