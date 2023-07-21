@@ -1,14 +1,10 @@
 # Depth Estimation of the single images with Transfer Learning pretrained MobileNetV2
 
-This project implements a deep learning neural network model to generate the depth image of a given image.
-Model is a U-net model with MobileNetV2 as the encoder, and model has utilized skip connection from encoder to decoder.
-Model generates a depth image of resolution 480x640 for input image of same size.
+### Steps fellowed to solve the problem.
+1. Read the survey paper [Single Image Depth Estimation: An Overview](https://arxiv.org/abs/2104.06456) to get the overview of the current state of art in the field.
+2. Implement the paper [High Quality Monocular Depth Estimation via Transfer Learning (arXiv 2018)](https://arxiv.org/abs/1812.11941).
+3. Look at the official code of the paper : [code](https://github.com/ialhashim/DenseDepth).
 
-
-This project was implemented taking reference from the following paper: 
-
-[High Quality Monocular Depth Estimation via Transfer Learning (arXiv 2018)](https://arxiv.org/abs/1812.11941)
-**[Ibraheem Alhashim]** and **Peter Wonka** 
 
 # Results 
 
@@ -18,7 +14,9 @@ This project was implemented taking reference from the following paper:
 | ![Project](results/1_image.jpg) | ![Project](original_depth/depth1.png) | ![Project](results/1_depth.jpg)  |
 | ![Project](results/2_image.jpg) | ![Project](original_depth/depth2.png) | ![Project](results/2_depth.jpg)  |
 | ![Project](results/3_image.jpg) | ![Project](original_depth/depth3.png) | ![Project](results/3_depth.jpg)  |
-
+| ![Project](results/4_image.jpg) | ![Project](original_depth/depth4.png) | ![Project](results/4_depth.jpg)  |
+| ![Project](results/5_image.jpg) | ![Project](original_depth/depth5.png) | ![Project](results/6_depth.jpg)  |
+| ![Project](results/6_image.jpg) | ![Project](original_depth/depth6.png) | ![Project](results/6_depth.jpg)  |
 
 ##### Structural Similarity Index (SSIM) between the above two images: 0.37290473188266604
 # Data 
