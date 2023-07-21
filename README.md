@@ -20,6 +20,7 @@ This project was implemented taking reference from the following paper:
 ### Dense Depth using get using the trained model.
 ![Project](results/0_depth.jpg)  
 
+##### Structural Similarity Index (SSIM) between the above two images: 0.37290473188266604
 # Data 
 Downlaod the data from the link [click here](www.google.com) and put in the parent directory of the project. 
 
