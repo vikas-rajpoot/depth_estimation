@@ -30,7 +30,7 @@ Run the command `python train.py` to train the model and save the model in `./mo
 Run the command `python test.py` the model the testing images is in the `./test_img_1` directory and produced DenseDepth saved in the './resutls' directory. 
 
 # Documentation 
-Documentation is present at the link : [documentation](https://vikash9899.github.io/depth_estimation/)
+Documentation is present at the link : [documentation](https://vikas-rajpoot.github.io/depth_estimation/)
 
 
 
